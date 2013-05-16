@@ -1,0 +1,838 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>models\Randy.png</Source>
+      <Name>models\Randy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\models\Randy.xnb</Output>
+      <Time>2011-08-16T16:00:36.8795188+01:00</Time>
+    </Item>
+    <Item>
+      <Source>models\Car.png</Source>
+      <Name>models\Car</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\models\Car.xnb</Output>
+      <Time>2011-08-16T16:00:35.2974283+01:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\Checker.bmp</Source>
+      <Name>textures\Checker</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\textures\Checker.xnb</Output>
+      <Time>2011-08-16T16:01:03.9240656+01:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\earth.bmp</Source>
+      <Name>textures\earth</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\textures\earth.xnb</Output>
+      <Time>2011-08-16T16:01:03.9680681+01:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\green.bmp</Source>
+      <Name>textures\green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\textures\green.xnb</Output>
+      <Time>2011-08-16T16:01:04.0090705+01:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\iconi.jpg</Source>
+      <Name>textures\iconi</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\textures\iconi.xnb</Output>
+      <Time>2011-08-16T15:59:55.6641614+01:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\metal.jpg</Source>
+      <Name>textures\metal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\textures\metal.xnb</Output>
+      <Time>2011-08-16T16:01:04.0520729+01:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\moss.bmp</Source>
+      <Name>textures\moss</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\textures\moss.xnb</Output>
+      <Time>2011-08-16T16:01:04.123077+01:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\reeds.bmp</Source>
+      <Name>textures\reeds</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\textures\reeds.xnb</Output>
+      <Time>2011-08-16T16:01:04.1640794+01:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\rock.bmp</Source>
+      <Name>textures\rock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\textures\rock.xnb</Output>
+      <Time>2011-08-16T16:01:04.2140822+01:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\terrain.bmp</Source>
+      <Name>textures\terrain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\textures\terrain.xnb</Output>
+      <Time>2011-08-16T16:01:04.2670852+01:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\Randy.png</Source>
+      <Name>textures\Randy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\textures\Randy.xnb</Output>
+      <Time>2011-08-16T16:01:04.1460783+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Checker.bmp</Source>
+      <Name>Checker</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\Checker.xnb</Output>
+      <Time>2011-08-23T15:01:57.0619248+01:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Checker.bmp</Source>
+      <Name>images\Checker</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\images\Checker.xnb</Output>
+      <Time>2011-08-16T16:01:03.9240656+01:00</Time>
+    </Item>
+    <Item>
+      <Source>images\cracked-glass-texture-in-green.jpg</Source>
+      <Name>images\cracked-glass-texture-in-green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\images\cracked-glass-texture-in-green.xnb</Output>
+      <Time>2011-08-16T15:59:55.6631613+01:00</Time>
+    </Item>
+    <Item>
+      <Source>images\earth.bmp</Source>
+      <Name>images\earth</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\images\earth.xnb</Output>
+      <Time>2011-08-16T16:01:03.9680681+01:00</Time>
+    </Item>
+    <Item>
+      <Source>images\grass.jpg</Source>
+      <Name>images\grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\images\grass.xnb</Output>
+      <Time>2011-08-16T16:01:03.9990699+01:00</Time>
+    </Item>
+    <Item>
+      <Source>images\green.bmp</Source>
+      <Name>images\green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\images\green.xnb</Output>
+      <Time>2011-08-16T16:01:04.0090705+01:00</Time>
+    </Item>
+    <Item>
+      <Source>images\halftone-pop-000241-lime-green.jpg</Source>
+      <Name>images\halftone-pop-000241-lime-green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\images\halftone-pop-000241-lime-green.xnb</Output>
+      <Time>2011-08-16T16:01:04.0210712+01:00</Time>
+    </Item>
+    <Item>
+      <Source>images\iconi.jpg</Source>
+      <Name>images\iconi</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\images\iconi.xnb</Output>
+      <Time>2011-08-16T15:59:55.6641614+01:00</Time>
+    </Item>
+    <Item>
+      <Source>images\metal.jpg</Source>
+      <Name>images\metal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\images\metal.xnb</Output>
+      <Time>2011-08-16T16:01:04.0520729+01:00</Time>
+    </Item>
+    <Item>
+      <Source>images\moss.bmp</Source>
+      <Name>images\moss</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\images\moss.xnb</Output>
+      <Time>2011-08-16T16:01:04.123077+01:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Randy.png</Source>
+      <Name>images\Randy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\images\Randy.xnb</Output>
+      <Time>2011-08-16T16:01:04.1460783+01:00</Time>
+    </Item>
+    <Item>
+      <Source>images\reeds.bmp</Source>
+      <Name>images\reeds</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\images\reeds.xnb</Output>
+      <Time>2011-08-16T16:01:04.1640794+01:00</Time>
+    </Item>
+    <Item>
+      <Source>images\rock.bmp</Source>
+      <Name>images\rock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\images\rock.xnb</Output>
+      <Time>2011-08-16T16:01:04.2140822+01:00</Time>
+    </Item>
+    <Item>
+      <Source>images\skylands.png</Source>
+      <Name>images\skylands</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\images\skylands.xnb</Output>
+      <Time>2011-08-16T16:00:32.1402477+01:00</Time>
+    </Item>
+    <Item>
+      <Source>images\spark-T.xWater_Deep.jpg</Source>
+      <Name>images\spark-T.xWater_Deep</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\images\spark-T.xWater_Deep.xnb</Output>
+      <Time>2011-08-16T16:01:04.246084+01:00</Time>
+    </Item>
+    <Item>
+      <Source>images\steampunk_wallpaper_antique_by_grundlos.jpg</Source>
+      <Name>images\steampunk_wallpaper_antique_by_grundlos</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\images\steampunk_wallpaper_antique_by_grundlos.xnb</Output>
+      <Time>2011-08-16T16:01:04.2480842+01:00</Time>
+    </Item>
+    <Item>
+      <Source>images\terrain.bmp</Source>
+      <Name>images\terrain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\images\terrain.xnb</Output>
+      <Time>2011-08-16T16:01:04.2670852+01:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Vector_Brushes_4_0_by_chibilady17.png</Source>
+      <Name>images\Vector_Brushes_4_0_by_chibilady17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\images\Vector_Brushes_4_0_by_chibilady17.xnb</Output>
+      <Time>2011-08-16T16:01:04.2690854+01:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Watching_nothing_by_solenero73.jpg</Source>
+      <Name>images\Watching_nothing_by_solenero73</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\images\Watching_nothing_by_solenero73.xnb</Output>
+      <Time>2011-08-16T16:01:04.2720855+01:00</Time>
+    </Item>
+    <Item>
+      <Source>models\box.x</Source>
+      <Name>models\box</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\models\box.xnb</Output>
+      <Time>2011-08-16T16:00:35.2604262+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\models\box_0.xml</Key>
+        <Value>2011-08-31T15:20:16.6924364+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>models\capsule.x</Source>
+      <Name>models\capsule</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\models\capsule.xnb</Output>
+      <Time>2011-08-16T16:00:35.2724268+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\models\capsule_0.xml</Key>
+        <Value>2011-08-31T15:20:16.7554427+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>models\combined.x</Source>
+      <Name>models\combined</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\models\combined.xnb</Output>
+      <Time>2011-08-16T16:00:35.3234298+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\models\combined_0.xml</Key>
+        <Value>2011-08-31T15:20:16.8024474+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>models\compound.x</Source>
+      <Name>models\compound</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\models\compound.xnb</Output>
+      <Time>2011-08-16T16:00:35.3354304+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\models\compound_0.xml</Key>
+        <Value>2011-08-31T15:20:16.8334505+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>models\crew.x</Source>
+      <Name>models\crew</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\models\crew.xnb</Output>
+      <Time>2011-08-16T16:00:35.4104347+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\models\crew_0.xml</Key>
+        <Value>2011-08-31T15:20:17.4545126+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>models\cylinder.x</Source>
+      <Name>models\cylinder</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\models\cylinder.xnb</Output>
+      <Time>2011-08-16T16:00:35.4184352+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\models\cylinder_0.xml</Key>
+        <Value>2011-08-31T15:20:17.8855557+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>models\pin.x</Source>
+      <Name>models\pin</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\models\pin.xnb</Output>
+      <Time>2011-08-16T16:00:36.7405108+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\models\pin_0.xml</Key>
+        <Value>2011-08-31T15:20:18.0775749+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>models\plane.x</Source>
+      <Name>models\plane</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\models\plane.xnb</Output>
+      <Time>2011-08-16T16:00:36.8185153+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\models\plane_0.xml</Key>
+        <Value>2011-08-31T15:20:18.1655837+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>models\sphere.x</Source>
+      <Name>models\sphere</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\models\sphere.xnb</Output>
+      <Time>2011-08-16T16:01:02.1609648+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\models\sphere_0.xml</Key>
+        <Value>2011-08-31T15:20:18.2335905+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>models\StaticMesh.x</Source>
+      <Name>models\StaticMesh</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\models\StaticMesh.xnb</Output>
+      <Time>2011-08-16T16:01:02.1779658+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\models\StaticMesh_0.xml</Key>
+        <Value>2011-08-31T15:20:18.6236295+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>models\cloud.fbx</Source>
+      <Name>models\cloud</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\models\cloud.xnb</Output>
+      <Time>2011-08-16T16:00:35.3134292+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\models\cloud_0.xml</Key>
+        <Value>2011-08-31T15:20:19.0006672+01:00</Value>
+      </Dependency>
+      <Request>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\models\car_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>models\fail.fbx</Source>
+      <Name>models\fail</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\models\fail.xnb</Output>
+      <Time>2011-08-16T16:00:35.4734383+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\models\fail_0.xml</Key>
+        <Value>2011-08-31T15:20:20.4458117+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>models\tank_bottom.fbx</Source>
+      <Name>models\tank_bottom</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\models\tank_bottom.xnb</Output>
+      <Time>2011-08-16T16:01:02.2259685+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\models\tank_bottom_0.xml</Key>
+        <Value>2011-08-31T15:20:21.8139485+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>models\tank_top.fbx</Source>
+      <Name>models\tank_top</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\models\tank_top.xnb</Output>
+      <Time>2011-08-16T16:01:02.2449696+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\models\tank_top_0.xml</Key>
+        <Value>2011-08-31T15:20:22.2929964+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>models\wheel.fbx</Source>
+      <Name>models\wheel</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\models\wheel.xnb</Output>
+      <Time>2011-08-16T16:01:02.322974+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\models\wheel_0.xml</Key>
+        <Value>2011-08-31T15:20:23.5431214+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>textures\Courier New.spritefont</Source>
+      <Name>textures\Courier New</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\textures\Courier New.xnb</Output>
+      <Time>2011-08-16T16:01:03.9420667+01:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\Font.spritefont</Source>
+      <Name>textures\Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\textures\Font.xnb</Output>
+      <Time>2011-08-16T16:01:03.9820689+01:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\Font2.spritefont</Source>
+      <Name>textures\Font2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\textures\Font2.xnb</Output>
+      <Time>2011-08-16T16:01:03.9880693+01:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Courier New.spritefont</Source>
+      <Name>images\Courier New</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\images\Courier New.xnb</Output>
+      <Time>2011-08-16T16:01:03.9420667+01:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Font.spritefont</Source>
+      <Name>images\Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\images\Font.xnb</Output>
+      <Time>2011-08-16T16:01:03.9820689+01:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Font2.spritefont</Source>
+      <Name>images\Font2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\images\Font2.xnb</Output>
+      <Time>2011-08-16T16:01:03.9880693+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\music\title.mp3</Source>
+      <Name>sound\music\title</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\sound\music\title.xnb</Output>
+      <Extra>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\sound\music\title.wma</Extra>
+      <Time>2011-08-16T16:01:02.6289916+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\effects\death.mp3</Source>
+      <Name>sound\effects\death</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\sound\effects\death.xnb</Output>
+      <Extra>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\sound\effects\death.wma</Extra>
+      <Time>2011-08-24T13:50:16.7234287+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\effects\deep_wind.mp3</Source>
+      <Name>sound\effects\deep_wind</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\sound\effects\deep_wind.xnb</Output>
+      <Extra>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\sound\effects\deep_wind.wma</Extra>
+      <Time>2011-08-24T13:56:44.7062231+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\effects\hiss.mp3</Source>
+      <Name>sound\effects\hiss</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\sound\effects\hiss.xnb</Output>
+      <Extra>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\sound\effects\hiss.wma</Extra>
+      <Time>2011-08-24T13:45:10.0367631+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\effects\lava.mp3</Source>
+      <Name>sound\effects\lava</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\sound\effects\lava.xnb</Output>
+      <Extra>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\sound\effects\lava.wma</Extra>
+      <Time>2011-08-24T13:40:21.9779601+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\effects\rumble.mp3</Source>
+      <Name>sound\effects\rumble</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\sound\effects\rumble.xnb</Output>
+      <Extra>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\sound\effects\rumble.wma</Extra>
+      <Time>2011-08-24T13:42:14.3291941+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\effects\bump.mp3</Source>
+      <Name>sound\effects\bump</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\sound\effects\bump.xnb</Output>
+      <Extra>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\sound\effects\bump.wma</Extra>
+      <Time>2011-08-24T13:54:57.5625098+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\effects\beam.wav</Source>
+      <Name>sound\effects\beam</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\sound\effects\beam.xnb</Output>
+      <Time>2011-08-16T16:00:32.2292528+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\effects\engine.wav</Source>
+      <Name>sound\effects\engine</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\sound\effects\engine.xnb</Output>
+      <Time>2011-08-16T16:01:02.5559874+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\effects\spawn.wav</Source>
+      <Name>sound\effects\spawn</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\sound\effects\spawn.xnb</Output>
+      <Time>2011-08-16T16:01:02.6949953+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\effects\wind.wav</Source>
+      <Name>sound\effects\wind</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\sound\effects\wind.xnb</Output>
+      <Time>2011-08-16T16:00:32.2522541+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\effects\Reload.wav</Source>
+      <Name>sound\effects\Reload</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\sound\effects\Reload.xnb</Output>
+      <Time>2005-02-15T17:44:20+00:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\effects\pick.wav</Source>
+      <Name>sound\effects\pick</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\sound\effects\pick.xnb</Output>
+      <Time>2011-08-16T16:00:32.2312529+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\effects\hello.wav</Source>
+      <Name>sound\effects\hello</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\sound\effects\hello.xnb</Output>
+      <Time>2003-09-16T15:21:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\effects\welcome.wav</Source>
+      <Name>sound\effects\welcome</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\sound\effects\welcome.xnb</Output>
+      <Time>2003-06-24T14:26:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>models\box.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\models\box_0.xml</Output>
+      <Time>2011-08-16T16:00:35.2604262+01:00</Time>
+    </Item>
+    <Item>
+      <Source>models\capsule.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\models\capsule_0.xml</Output>
+      <Time>2011-08-16T16:00:35.2724268+01:00</Time>
+    </Item>
+    <Item>
+      <Source>models\combined.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\models\combined_0.xml</Output>
+      <Time>2011-08-16T16:00:35.3234298+01:00</Time>
+    </Item>
+    <Item>
+      <Source>models\compound.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\models\compound_0.xml</Output>
+      <Time>2011-08-16T16:00:35.3354304+01:00</Time>
+    </Item>
+    <Item>
+      <Source>models\crew.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\models\crew_0.xml</Output>
+      <Time>2011-08-16T16:00:35.4104347+01:00</Time>
+    </Item>
+    <Item>
+      <Source>models\cylinder.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\models\cylinder_0.xml</Output>
+      <Time>2011-08-16T16:00:35.4184352+01:00</Time>
+    </Item>
+    <Item>
+      <Source>models\pin.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\models\pin_0.xml</Output>
+      <Time>2011-08-16T16:00:36.7405108+01:00</Time>
+    </Item>
+    <Item>
+      <Source>models\plane.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\models\plane_0.xml</Output>
+      <Time>2011-08-16T16:00:36.8185153+01:00</Time>
+    </Item>
+    <Item>
+      <Source>models\sphere.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\models\sphere_0.xml</Output>
+      <Time>2011-08-16T16:01:02.1609648+01:00</Time>
+    </Item>
+    <Item>
+      <Source>models\StaticMesh.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\models\StaticMesh_0.xml</Output>
+      <Time>2011-08-16T16:01:02.1779658+01:00</Time>
+    </Item>
+    <Item>
+      <Source>models\cloud.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\models\cloud_0.xml</Output>
+      <Time>2011-08-16T16:00:35.3134292+01:00</Time>
+    </Item>
+    <Item>
+      <Source>models\car.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\models\car_0.xnb</Output>
+      <Time>2011-08-16T16:00:35.2974283+01:00</Time>
+    </Item>
+    <Item>
+      <Source>models\fail.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\models\fail_0.xml</Output>
+      <Time>2011-08-16T16:00:35.4734383+01:00</Time>
+    </Item>
+    <Item>
+      <Source>models\tank_bottom.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\models\tank_bottom_0.xml</Output>
+      <Time>2011-08-16T16:01:02.2259685+01:00</Time>
+    </Item>
+    <Item>
+      <Source>models\tank_top.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\models\tank_top_0.xml</Output>
+      <Time>2011-08-16T16:01:02.2449696+01:00</Time>
+    </Item>
+    <Item>
+      <Source>models\wheel.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\models\wheel_0.xml</Output>
+      <Time>2011-08-16T16:01:02.322974+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\chgomez\Documents\My Dropbox\skylands\game\content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\chgomez\Documents\My Dropbox\skylands\game\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\chgomez\Documents\My Dropbox\skylands\game\content\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\chgomez\Documents\My Dropbox\skylands\game\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-09-28T17:11:43.7840322+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

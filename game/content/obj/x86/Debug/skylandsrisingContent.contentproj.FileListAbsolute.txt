@@ -1,0 +1,3 @@
+C:\projects\skylands\skylands\game\content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\Dropbox\skylands\game\content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\chgomez\Documents\My Dropbox\skylands\game\content\obj\x86\Debug\ResolveAssemblyReference.cache
