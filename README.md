@@ -7,14 +7,18 @@ Multiplayer Enabled 3D Physics enabled XNA game using JibLibX and Lidgren networ
 A game based in the clouds, the prototype can handle 2 players.  
 Most of the work involved incorporating a networking engine into a JigLibX Physics engine.
 
+I created the Game Launcher using WPF and C#
+![Game Launcher](https://raw.githubusercontent.com/craftfortress/skylands/master/game/content/textures/launcher.jpg)
+
+
+I then imported some high poly models and had some fun.  
+
 https://www.youtube.com/watch?v=n7dayxZ7vX4&list=UUx-__B0ceTO8TWchi43X1sw
 
 https://www.youtube.com/watch?v=YyigOC3CQPo&list=UUx-__B0ceTO8TWchi43X1sw
 
 https://www.youtube.com/watch?v=dQ8ok3kpmws&list=UUx-__B0ceTO8TWchi43X1sw
 
-
-I then imported some high poly models and had some fun.  
 The networking code will need further development to enable more than 2 players. 
 Terrain / object creation works along with fully working collision detection. 
 
