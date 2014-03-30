@@ -2,7 +2,7 @@
 
 ![](https://raw.githubusercontent.com/craftfortress/skylands/master/game/content/textures/iconi.jpg)
 
-Multiplayer Enabled 3D Physics ennabled XNA game.
+Multiplayer Enabled 3D Physics enabled XNA game using JibLibX and Lidgren networking.
 
 A game based in the clouds, the prototype can handle 2 players.  
 Most of the work involved incorporating a networking engine into a JigLibX Physics engine.
