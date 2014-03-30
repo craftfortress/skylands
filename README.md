@@ -1,5 +1,4 @@
 ##Skylands Rising
-====
 
 ![](https://raw.githubusercontent.com/craftfortress/skylands/master/game/content/textures/iconi.jpg)
 
