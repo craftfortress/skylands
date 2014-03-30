@@ -12,4 +12,4 @@ Terrain / object creation works along with fully working collision detection.
 Due to the amount of time it has been taking up I am putting this on a back burner to finish my other higher priority projects first.
 
 ##The name
-I actually came up with the name "Skylands" and started to publicly work on it, about a year before "Skylanders" was released.  I have decided to keep the name for now, but I could see mself getting sued ironically if I were to release it as such!
+I actually came up with the name "Skylands" and started to publicly work on it, about a year before "Skylanders" was released.  I have decided to keep the name for now, but I could see myself getting sued ironically if I were to release it as such!
