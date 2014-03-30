@@ -7,7 +7,7 @@ Multiplayer Enabled 3D Physics ennabled XNA game.
 A game based in the clouds, the prototype can handle 2 players.  
 Most of the work involved incorporating a networking engine into a JigLibX Physics engine.
 
-![asd](https://www.youtube.com/watch?v=n7dayxZ7vX4&list=UUx-__B0ceTO8TWchi43X1sw)
+https://www.youtube.com/watch?v=n7dayxZ7vX4&list=UUx-__B0ceTO8TWchi43X1sw
 
 https://www.youtube.com/watch?v=YyigOC3CQPo&list=UUx-__B0ceTO8TWchi43X1sw
 
