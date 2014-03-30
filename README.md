@@ -26,4 +26,5 @@ Open Source assets / privately donated
 
 ![The tank](https://raw.githubusercontent.com/craftfortress/skylands/master/game/content/models/modelsU/spark/Capture.JPG)
 
-![Title Music](https://raw.githubusercontent.com/craftfortress/skylands/master/game/content/sound/music/title.mp3)
+Title Music
+https://raw.githubusercontent.com/craftfortress/skylands/master/game/content/sound/music/title.mp3
