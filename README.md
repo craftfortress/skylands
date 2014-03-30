@@ -1,6 +1,5 @@
 ##Skylands Rising
 ====
-![The tank](https://raw.githubusercontent.com/craftfortress/skylands/master/game/content/models/modelsU/spark/Capture.JPG)
 
 Multiplayer Enabled 3D Physics ennabled XNA game.
 
@@ -22,3 +21,9 @@ Due to the amount of time it has been taking up I am putting this on a back burn
 
 #The name
 I actually came up with the name "Skylands" and started to publicly work on it, about a year before "Skylanders" was released.  I have decided to keep the name for now, but I could see myself getting sued ironically if I were to release it as such!
+
+Open Source assets / privately donated
+
+![The tank](https://raw.githubusercontent.com/craftfortress/skylands/master/game/content/models/modelsU/spark/Capture.JPG)
+
+![Title Music](https://raw.githubusercontent.com/craftfortress/skylands/master/game/content/sound/music/title.mp3)
