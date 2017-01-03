@@ -34,8 +34,10 @@ The Tank
 
 [![In game footage](http://img.youtube.com/vi/dQ8ok3kpmws/0.jpg)](https://www.youtube.com/watch?v=dQ8ok3kpmwsdQ8ok3kpmws "In game footage")
 
+[![In game footage](http://img.youtube.com/vi/YyigOC3CQPo/0.jpg)](https://www.youtube.com/watch?v=YyigOC3CQPo "In game footage") 
 
-
+[![In game footage](http://img.youtube.com/vi/n7dayxZ7vX4/0.jpg)](https://www.youtube.com/watch?v=n7dayxZ7vX4 "In game footage") 
+ 
 Title Music by Shiru
 
 https://raw.githubusercontent.com/craftfortress/skylands/master/game/content/sound/music/title.mp3
