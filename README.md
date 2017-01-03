@@ -32,6 +32,10 @@ The Tank
 
 ![The tank](https://raw.githubusercontent.com/craftfortress/skylands/master/game/content/models/modelsU/spark/Capture.JPG)
 
+[![In game footage](http://img.youtube.com/vi/dQ8ok3kpmws/0.jpg)](https://www.youtube.com/watch?v=dQ8ok3kpmwsdQ8ok3kpmws "In game footage")
+
+
+
 Title Music by Shiru
 
 https://raw.githubusercontent.com/craftfortress/skylands/master/game/content/sound/music/title.mp3
